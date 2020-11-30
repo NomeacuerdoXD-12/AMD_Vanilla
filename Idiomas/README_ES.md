@@ -17,7 +17,7 @@ Parches binarios para el Kernel que habilitan el uso casi nativo de macOS para l
 | Familia | Microarquitectura | Ejemplo |
 |--------|---------|----------|
 |   [15h](https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/15h_16h)  | Bulldozer | FX Series|
-|   [16h](https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/15h_16h)  | Jaguar | A Series (including AM4 A-Series) |
+|   [16h](https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/15h_16h)  | Jaguar | A Series (incluyendo AM4 A-Series) |
 |   [17h](https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/17h) | Zen | Ryzen, Threadripper, Athlon 2xxGE | <br />
 
 ### Versiones de macOS soportadas
